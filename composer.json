@@ -1,0 +1,14 @@
+{
+    "name": "jacobemerick/bigstock-api-client",
+    "description": "PHP Client for Bigstock API",
+    "minimum-stability": "dev",
+    "require": {
+        "shutterstock/presto": "1.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jacobemerick\\BigstockAPI": "src"
+        }
+    }
+}
+
